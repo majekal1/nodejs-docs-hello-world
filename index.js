@@ -11,7 +11,6 @@ const cors = require('cors')
 const crypto = require('crypto');
 const pkg = require('./package.json');
 response.end("Hello guys, this is a quick edit");
-console.log(Olu)
 
 // App constants
 const port = process.env.PORT || 3000;
