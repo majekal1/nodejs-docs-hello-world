@@ -10,7 +10,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors')
 const crypto = require('crypto');
 const pkg = require('./package.json');
-response.end("Hello World!");
+response.end("Hello guys, this is a quick edit");
 
 // App constants
 const port = process.env.PORT || 3000;
