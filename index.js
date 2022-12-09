@@ -3,7 +3,7 @@
 // Bank API code from Web Dev For Beginners project
 // https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/7-bank-project/api
 // ***************************************************************************
-response.end("What is thi???????? Its a test");
+response.end("Edit this to see if Docker works");
 
 
 
