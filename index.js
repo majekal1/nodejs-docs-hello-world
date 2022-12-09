@@ -3,7 +3,6 @@
 // Bank API code from Web Dev For Beginners project
 // https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/7-bank-project/api
 // ***************************************************************************
-response.end("Edit this to see if Docker works");
 
 
 
@@ -58,7 +57,7 @@ const router = express.Router();
 
 // Hello World for index page
 app.get('/', function (req, res) {
-    return res.send("Hello World!");
+    return res.send("Hello This is a jenkins test!");
 })
 
 app.get('/api', function (req, res) {
